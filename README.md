@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ![Guntur Satya A](https://github-readme-stats.vercel.app/api?username=guntursatya25&theme=gruvbox&show_icons=false)
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=guntursatya25&layout=compact&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guntursatya25&layout=compact)]
+
