@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Guntur Satya A](https://github-readme-stats.vercel.app/api?username=guntursatya25&theme=gruvbox&show_icons=false)
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=guntursatya25&layout=compact&theme=gruvbox)
