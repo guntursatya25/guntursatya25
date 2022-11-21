@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### BIO
+
+- ⚙️ Daily Code Stack: `.php`, `.js`, `.html`, `.css`, , `.typescript`
+- 🏢 Framework use: `Laravel`
+- 📫 Reach me: [Github](https://github.com/guntursatya25), [Instagram](https://www.instagram.com/guntursatya/), [GunturSatya.com](https://www.guntursatya.com/), [LinkedIn](https://www.linkedin.com/in/guntursatya/)
+- ⚡️ Fun fact: I'm a just a man who love to code 
+
 ![Guntur Satya A](https://github-readme-stats.vercel.app/api?username=guntursatya25&theme=gruvbox&show_icons=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guntursatya25&layout=compact)
