@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Guntur Satya A](https://github-readme-stats.vercel.app/api?username=guntursatya25&theme=gruvbox&show_icons=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guntursatya25&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guntursatya25&layout=compact)
 
