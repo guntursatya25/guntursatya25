@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### BIO
 
 - ⚙️ Daily Code Stack: `.php`, `.js`, `.html`, `.css`, `.typescript`
-- 🏢 Framework use: `Laravel`
+- 🏢 Framework use: `Laravel`, `CodeIgniter`, `Ionic`
 - 📫 Reach me: [Github](https://github.com/guntursatya25), [Instagram](https://www.instagram.com/guntursatya/), [GunturSatya.com](https://www.guntursatya.com/), [LinkedIn](https://www.linkedin.com/in/guntursatya/)
 - ⚡️ Fun fact: I'm a just a man who love to code 
 
